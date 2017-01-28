@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="collinear:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/collinear_jar</output-path>
+    <root id="archive" name="collinear.jar">
+      <element id="module-output" name="collinear" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/algs4.jar" path-in-jar="/" />
+      <element id="archive" name="archive.jar" />
+    </root>
+  </artifact>
+</component>
