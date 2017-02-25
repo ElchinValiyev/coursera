@@ -1,6 +1,0 @@
-[0m[[0minfo[0m] [0m+ Heap.gen1: OK, passed 100 tests.[0m
-[0m[[0minfo[0m] [0m+ Heap.Deleting the minimal value in a Heap should result in an empty Heap": OK, passed 100 tests.[0m
-[0m[[0minfo[0m] [0m+ Heap.The smallest of 2 elements should be the smallest in a previously empty Heap: OK, passed 100 tests.[0m
-[0m[[0minfo[0m] [0m+ Heap.toList should give sorted result: OK, passed 100 tests.[0m
-[0m[[0minfo[0m] [0m+ Heap.The minimal value of a melded Heap should be the min of the min of both heaps: OK, passed 100 tests.[0m
-[0m[[0minfo[0m] [0m+ Heap.associative meld: OK, passed 100 tests.[0m

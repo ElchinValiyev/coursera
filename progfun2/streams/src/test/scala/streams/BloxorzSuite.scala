@@ -76,7 +76,7 @@ class BloxorzSuite extends FunSuite {
   }
 
 
-  test("Elchin 1") {
+  test("neighbors with history") {
     new Level1 {
       assert(neighborsWithHistory(Block(Pos(1, 1), Pos(1, 1)), List(Left, Up))
         == Set(
@@ -87,7 +87,7 @@ class BloxorzSuite extends FunSuite {
     }
   }
 
-  test("Elchin 2") {
+  test("new neighbors only") {
     new Level1 {
       assert(newNeighborsOnly(
         Set(
