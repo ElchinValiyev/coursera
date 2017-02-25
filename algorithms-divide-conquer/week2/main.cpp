@@ -62,8 +62,6 @@ int *readFileIntoArray(string fileName, int numberOfLines) {
     return numbers;
 }
 
-//*********************************** Strassen's algorithm *********************************
-
 int main() {
     cout << "Number of inversions in array [";
     int array[] = {1, 3, 5, 2, 4, 6};
